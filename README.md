@@ -25,6 +25,7 @@ The scripts come with some dummy data. Put any screenshots you want cropped in t
   - find individual items
     - parse individual items to a textfile (summation of inventory contents)
   - add scripts to automatically take screenshots (and open containers if allowed??) somehow.
+- dont crop images that can't be cropped (non-inventory screenshots)
 
 
 ## Inspiration
