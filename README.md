@@ -13,6 +13,11 @@ Have you ever wanted to compile all the loot you found together into one big scr
 The scripts come with some dummy data. Put any screenshots you want cropped in the `input` directory, then run the `case_crop.py` script to try and crop them. The output will be in the `output` directory, obviously. Running `case_concatenator.py` Will try and weave the images together at max resolution. The big screenshot will be **called big long boi**.
 
 
+## example output
+![example](example.png)
+As you see, it's far from perfect. Dragging a container up to the left corner and making sure no other containers are open helps to make sure the crop is right on each image.
+
+
 ## (potential) issues to watch out for
 - Filenames are coded by windows filenaming standards (or by no standards whatsoever, really) So that could cause potential issues.
 - I haven't tested it in any other resolution than **1920x1080**
