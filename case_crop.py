@@ -96,4 +96,4 @@ for index, filename in enumerate(os.listdir(INPUT_FILES_FOLDER)):
       else:
          print(f'could not save {output_name[:15]}')
 
-
+print('casecrop script done running')
